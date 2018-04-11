@@ -1,0 +1,17 @@
+{
+  "name": "json2xls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hidesuke",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.22.0",
+    "officegen": "^0.4.5"
+  }
+}
